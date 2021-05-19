@@ -1,0 +1,12 @@
+# DNS_Server
+
+A Local dns server that finds A and AAAA CNAME and NS by listening to port and uses nslookup to find the value if not in cache
+
+# run
+run the server.c
+    gcc server.c -lpthread -o server.o
+    ./server.o 1234
+
+run the client.c
+    gcc client.c -lpthread -o client.o
+    ./client.o 1234

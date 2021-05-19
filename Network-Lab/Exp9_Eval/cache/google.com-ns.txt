@@ -1,0 +1,8 @@
+Server:		ns2.google.com.
+Address:	216.239.34.10#53
+
+google.com	nameserver = ns2.google.com.
+google.com	nameserver = ns3.google.com.
+google.com	nameserver = ns4.google.com.
+google.com	nameserver = ns1.google.com.
+

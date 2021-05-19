@@ -1,0 +1,7 @@
+1. src: 192.168.43.211, dest: 14.139.185.123
+
+2. http
+
+3.  Form item: "user" = "admin"
+    Form item: "passwd" = "administr@tor"
+    Form item: "utype" = "Student"

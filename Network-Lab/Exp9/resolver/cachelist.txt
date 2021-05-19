@@ -1,0 +1,4 @@
+nitc.ac.in-aaaa
+nitc.ac.in-a
+nitc.ac.in-cname
+google.com-cname

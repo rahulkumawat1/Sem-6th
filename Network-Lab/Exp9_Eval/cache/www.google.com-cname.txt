@@ -1,0 +1,5 @@
+Server:		ns2.google.com.
+Address:	216.239.34.10#53
+
+*** Can't find www.google.com: No answer
+
